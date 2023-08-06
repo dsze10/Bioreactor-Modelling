@@ -1,0 +1,115 @@
+ImportNorm.pzfx, Saturday, April 23, 2022 at 4:37 PM
+Nonlin fit of Fig2.shSG_DNase
+Best-fit values	
+     YM	1.394
+     Y0	-0.007910
+     k	0.003141
+     R squared	0.9505
+Nonlin fit of Fig2.shSG_NaDeo
+Best-fit values	
+     YM	0.9463
+     Y0	-0.006754
+     k	0.005068
+     R squared	0.8994
+Nonlin fit of Fig2.shSG_pbs
+Best-fit values	
+     YM	Unstable
+     Y0	0.02434
+     k	5.563e-005
+     R squared	0.4451
+Nonlin fit of Fig2.shVF_DNase
+Best-fit values	
+     YM	3.123
+     Y0	-0.01106
+     k	0.003417
+     R squared	0.9846
+Nonlin fit of Fig2.shVF_NaDeo
+Best-fit values	
+     YM	1.515
+     Y0	0.005697
+     k	0.005685
+     R squared	0.9784
+Nonlin fit of Fig2.shVF_pbs
+Best-fit values	
+     YM	Unstable
+     Y0	0.01486
+     k	7.551e-005
+     R squared	0.5161
+Nonlin fit of Fig3.auSG1_DNase
+Best-fit values	
+     YM	Unstable
+     Y0	-0.001733
+     k	0.0001285
+     R squared	0.7390
+Nonlin fit of Fig3.auSG1_NaDeo
+Best-fit values	
+     YM	Unstable
+     Y0	-0.004419
+     k	3.412e-005
+     R squared	0.8964
+Nonlin fit of Fig3.auSG2_DNase
+Best-fit values	
+     YM	1.659
+     Y0	-0.001082
+     k	0.01016
+     R squared	0.6889
+Nonlin fit of Fig3.auSG2_NaDeo
+Best-fit values	
+     YM	0.4891
+     Y0	-0.004441
+     k	0.03260
+     R squared	0.2050
+Nonlin fit of Fig3.auVF1_DNase
+Best-fit values	
+     YM	0.2293
+     Y0	-6.838e-005
+     k	0.08428
+     R squared	0.8474
+Nonlin fit of Fig3.auVF1_NaDeo
+Best-fit values	
+     YM	0.2069
+     Y0	-0.0009509
+     k	0.03061
+     R squared	0.5545
+Nonlin fit of Fig3.auVF2_DNase
+Best-fit values	
+     YM	1.905
+     Y0	-0.005851
+     k	0.01979
+     R squared	0.9086
+Nonlin fit of Fig3.auVF2_NaDeo
+Best-fit values	
+     YM	1.920
+     Y0	-0.01349
+     k	0.01626
+     R squared	0.7874
+Nonlin fit of Fig7.shVF.DS_DNase
+Best-fit values	
+     YM	0.9569
+     Y0	0.01535
+     k	0.03996
+     R squared	0.9556
+Nonlin fit of Fig7.shVF.DS_NaDeo
+Best-fit values	
+     YM	3.493
+     Y0	-0.02303
+     k	0.01028
+     R squared	0.9710
+Nonlin fit of Fig7.shVF_DNase
+Best-fit values	
+     YM	0.4802
+     Y0	-0.007349
+     k	0.03891
+     R squared	0.5442
+Nonlin fit of Fig7.shVF_DNase2
+Best-fit values	
+     YM	0.9569
+     Y0	0.01535
+     k	0.03996
+     R squared	0.9556
+Nonlin fit of Fig7.shVF_NaDeo
+Best-fit values	
+     YM	6.683
+     Y0	0.001905
+     k	0.004694
+     R squared	0.9504
