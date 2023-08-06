@@ -1,0 +1,19 @@
+SetPath "/Users/daphnesze/Desktop/Reactor_Model/RootCSV/NoPBS"
+
+Open ImportRoot.pzfx
+
+ForEach Fig*.csv
+  GoTo D
+  GoTo %N
+  DeleteAllDataSets
+  Import
+  GoTo R
+  GoTo %N
+  SetSheetTitle "Nonlin fit of %F"
+  GoTo D
+
+  DuplicateFamily
+Next
+
+Save ImportRoot.pzfx
+Beep

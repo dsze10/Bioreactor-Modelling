@@ -1,0 +1,23 @@
+SetPath "/Users/daphnesze/Desktop/Reactor_Model/ScaleCSV"
+
+Open ImportPower.pzfx
+
+OpenOutput ResultsScale.txt, Clear
+WText "%P, %D"
+
+ForEach Fig*.csv
+  GoTo D
+  GoTo %N
+  DeleteAllDataSets
+  Import
+  GoTo R
+  GoTo %N
+  SetSheetTitle "Nonlin fit of %F"
+	WText "%S"
+	WBlock "2-5", "0-1"
+  GoTo D
+  DuplicateFamily
+Next
+
+Save ImportPower85.pzfx
+Beep
