@@ -1,0 +1,17 @@
+SetPath "/Users/daphnesze/Desktop/Reactor_Model/ScaleCSV"
+
+Open ImportPower85.pzfx
+
+OpenOutput ResultsPower85.txt, Clear
+WText "%P, %D"
+
+GoTo R
+
+ForEachSheet
+  GoTo R
+  GoTo %N V3
+	WText "%S"
+	WBlock "1", "0-3"
+Next
+
+Beep
